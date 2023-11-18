@@ -1,0 +1,43 @@
+ /* selected tag{  
+    property: value;
+ } */
+ body{
+   background-color: aqua;
+  
+ }
+ .app{
+    color: gold;
+    text-decoration: underline;
+ }
+ .intro{
+    text-align: center;
+    text-decoration: underline;
+    color: gold;
+ }
+.firstDiv{
+    color: red;
+   
+}
+.secondDiv{
+    color:purple;
+}
+.hire{
+    color: brown;
+    margin-left:100px;
+    text-decoration: underline;
+}
+#slogan{
+    color:peru;
+    
+}
+.slogan{
+    color: white;
+    text-decoration: underline;
+}
+.design{
+    color: green;
+    text-decoration: underline;
+}
+.paragraph{
+    color:blue;
+}
